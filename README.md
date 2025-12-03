@@ -1,1 +1,1 @@
-# App-availiability-Tracker
+# hair-salon-demo
